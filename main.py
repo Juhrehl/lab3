@@ -1,25 +1,24 @@
 def m(): 
   print ("M")
+  print ("I") 
+
 
 def i():
+  print ("S")
+  print ("S")
   print ("I")
-
+  
 
 def s():
-  print ("S")
+  print ("P")
+  print ("P")
+
 
 def p():
-  print ("P")
+  print ("I")
 
 m()
 i()
 s()
-s()
-i()
-s()
-s()
-i()
 p()
-p()
-i()
   
